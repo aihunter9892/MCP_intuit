@@ -1,0 +1,1 @@
+And unlike the previous TheMealDB example, we own the entire backend, so we can next add things like search by amenities, date-aware availability, pricing calculation, booking, cancellation, and even a fake database without changing the MCP architecture.

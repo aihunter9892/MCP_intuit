@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stayeasy": {
+      "type": "stdio",
+      "command": "F:\\MCP_intuit\\.venv\\Scripts\\python.exe",
+      "args": [
+        "F:\\MCP_intuit\\stayeasy\\server.py"
+      ]
+    }
+  }
+}
